@@ -1,0 +1,27 @@
+{
+	"name": "fullstack-for-beginners",
+	"version": "1.0.0",
+	"description": "Структура **\"Backend на Node.js + Express (REST API + MongoDB)\"**:",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "nodemon index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Novel86/fullstack-for-beginners.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Novel86/fullstack-for-beginners/issues"
+	},
+	"homepage": "https://github.com/Novel86/fullstack-for-beginners#readme",
+	"dependencies": {
+		"express": "^5.1.0"
+	},
+	"devDependencies": {
+		"nodemon": "^3.1.10"
+	}
+}
