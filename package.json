@@ -20,6 +20,7 @@
 	},
 	"homepage": "https://github.com/Novel86/fullstack-for-beginners#readme",
 	"dependencies": {
+		"dotenv": "^16.6.0",
 		"express": "^5.1.0",
 		"express-fileupload": "^1.5.1",
 		"mongoose": "^8.16.0",
